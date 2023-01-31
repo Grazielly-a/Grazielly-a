@@ -4,7 +4,7 @@
 
 - 🔭 Analise e desenvolvimento de sistemas
 - 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: Atualmente em transição de carreira mas já graduada em Serviço Social. 
+- ⚡ Curiosidade: Em transição de carreira, primeira formação em  Serviço Social. 
 
 
 <div align="center">
