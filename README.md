@@ -11,12 +11,6 @@
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
-<div>
-  <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/">
-   <img width="80px" src="https://cdn.pixabay.com/photo/2017/08/22/11/55/linked-in-2668688__340.png" alt="linkedin" style="vertical-align:top;">
-  </a>  
-</div>
-
 <div align="center">
   <a href="https://github.com/grazielly-a">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grazielly-a&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -32,7 +26,14 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
 </div>
-
+  
+### 📱 Redes:   
+<div>
+  <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/">
+   <img width="80px" src="https://cdn.pixabay.com/photo/2017/08/22/11/55/linked-in-2668688__340.png" alt="linkedin" style="vertical-align:top;">
+  </a>  
+</div>
+  
 ##
 
 
