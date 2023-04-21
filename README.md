@@ -1,9 +1,3 @@
-<div>
-  <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/">
-   <img width="80px" src="https://cdn.pixabay.com/photo/2017/08/22/11/55/linked-in-2668688__340.png" alt="linkedin" style="vertical-align:top;">
-  </a>  
-</div>
-
 ## Grazielly Araujo
 ### Hello, Devs!👋 
 ### Desenvolvedora Web ️🖥️
@@ -16,6 +10,12 @@
  <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
+
+<div>
+  <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/">
+   <img width="80px" src="https://cdn.pixabay.com/photo/2017/08/22/11/55/linked-in-2668688__340.png" alt="linkedin" style="vertical-align:top;">
+  </a>  
+</div>
 
 <div align="center">
   <a href="https://github.com/grazielly-a">
