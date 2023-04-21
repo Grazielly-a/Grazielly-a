@@ -26,9 +26,9 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
 </div>
-  
- </br>
- </br>
+ 
+ </br> 
+ 
 ### 📱 Redes:   
 <div>
   <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/">
