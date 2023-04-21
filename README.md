@@ -30,7 +30,9 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>  
 </div>
 
 ![Snake animation](https://github.com/Grazielly-a/Grazielly-a/blob/output/github-contribution-grid-snake.svg)
