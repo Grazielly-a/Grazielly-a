@@ -1,3 +1,9 @@
+<div>
+  <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/">
+   <img width="80px" src="https://cdn.pixabay.com/photo/2017/08/22/11/55/linked-in-2668688__340.png" alt="linkedin" style="vertical-align:top;">
+  </a>  
+</div>
+
 ## Grazielly Araujo
 ### Hello, Devs!👋 
 ### Desenvolvedora Web ️🖥️
@@ -29,10 +35,6 @@
 
 ##
 
-<div>
-  <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/">
-   <img width="80px" src="https://cdn.pixabay.com/photo/2017/08/22/11/55/linked-in-2668688__340.png" alt="linkedin" style="vertical-align:top;">
-  </a>  
-</div>
+
 
 ![Snake animation](https://github.com/Grazielly-a/Grazielly-a/blob/output/github-contribution-grid-snake.svg)
