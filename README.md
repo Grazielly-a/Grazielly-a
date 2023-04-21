@@ -1,11 +1,15 @@
-## Oii sou a Grazielly Araujo, desenvolvedora Web ️🖥️👋 <h2>
-
+# Grazielly Araujo <h2>
+## Hello, Devs!👋 <h2>
+## Desenvolvedora Web ️🖥️ <h2>
 
 
 - 🔭 Analise e desenvolvimento de sistemas
 - 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: Em transição de carreira, primeira formação em  Serviço Social. 
-
+- ⚡ Curiosidade: Tenho 25 anos, moro em Recife-PE e sou apaixonada por programação. Sou iniciante no universo da tecnologia, buscando todos dias apender um pouco mais. ❤
+  
+ <p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 <div align="center">
   <a href="https://github.com/grazielly-a">
