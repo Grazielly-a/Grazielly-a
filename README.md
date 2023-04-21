@@ -31,7 +31,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/grazielly-ara%C3%BAjo/">
-   <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+   <img width="80px" src="https://cdn.pixabay.com/photo/2017/08/22/11/55/linked-in-2668688__340.png" alt="linkedin" style="vertical-align:top;">
   </a>  
 </div>
 
